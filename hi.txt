@@ -1,2 +1,4 @@
 hello my name is anvit
 my friend's name is Lucky
+This commit is from my local machine for task 1.2
+my fav subject is dhruv
