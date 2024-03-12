@@ -3,3 +3,4 @@ my friend's name is Lucky
 This commit is from my local machine for task 1.2
 my fav subject is dhruv
 this is just a commit
+this is just another commmit
