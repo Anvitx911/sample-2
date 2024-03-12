@@ -5,3 +5,4 @@ my fav subject is dhruv
 this is just a commit
 this is just another commmit
 hi this is a resolving conflict
+hi this is just a 3rd commit
